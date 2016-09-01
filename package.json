@@ -1,0 +1,22 @@
+{
+  "name": "core-base",
+  "version": "1.0.0",
+  "description": "a base core lib for me",
+  "files": [
+    "lib"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "log4js": "^0.6.38",
+    "request": "^2.72.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "sj",
+    "url": "https://github.com/w446108264/core-base"
+  },
+  "license": "ISC"
+}
